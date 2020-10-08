@@ -1,0 +1,37 @@
+body {
+    min-height: 100%;
+    min-width: 100%;
+}
+#wrapper {
+    padding: 0px 4px;
+    width: auto;
+    height: auto;
+}
+.whois {
+    display: flex;
+}
+.whois .whois__key {
+    min-width: 11ch;
+    margin-right: 1ch;
+}
+.whois .whois__value {
+    width: auto;
+}
+.themes {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 48ch;
+}
+.themes div {
+    margin-right: 2ch;
+    min-width: 14ch;
+}
+.themes span:hover {
+    cursor: pointer;
+}
+a, a:hover, a:link, a:visited, a:active {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
