@@ -1,0 +1,16 @@
+.grass {
+    background: #13773D;
+    color: #FFB03B;
+}
+.grass a {
+    color: #FFB03B;
+}
+.grass a:hover {
+    background: #B64926;
+}
+.grass ::selection {
+    background: #B64926;
+}
+.grass .blink {
+    background: #8E2800;
+}
