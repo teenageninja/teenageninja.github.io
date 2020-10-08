@@ -1,0 +1,16 @@
+.solid-colors {
+    background: #ffffff;
+    color: #000000;
+}
+.solid-colors a {
+    color: #000000;
+}
+.solid-colors a:hover {
+    background: #808080;
+}
+.solid-colors ::selection {
+    background: #808080;
+}
+.solid-colors .blink {
+    background: #000000;
+}
