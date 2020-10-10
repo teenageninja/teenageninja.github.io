@@ -9,6 +9,7 @@ body {
     display: none;
     background: inherit;
     z-index: 1;
+    overflow: hidden;
 }
 #cursor, #login-block{
     position: absolute;
@@ -19,6 +20,7 @@ body {
     width: calc(100% - 8px);
     height: 100%;
     background: inherit;
+    overflow: hidden;
 }
 #cursor {
     z-index: 4;
