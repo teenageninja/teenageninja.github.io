@@ -1,0 +1,16 @@
+.novel {
+    background: #DFDBC3;
+    color: #7F2A19;
+}
+.novel a {
+    color: #7F2A19;
+}
+.novel a:hover {
+    background: #747350;
+}
+.novel ::selection {
+    background: #747350;
+}
+.novel .blink {
+    background: #3A2322;
+}

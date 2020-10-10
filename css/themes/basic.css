@@ -1,0 +1,16 @@
+.basic {
+    background: #171717;
+    color: #ffffff;
+}
+.basic a {
+    color: #ffffff;
+}
+.basic a:hover {
+    background: #314F78;
+}
+.basic ::selection {
+    background: #314F78;
+}
+.basic .blink {
+    background: #8B8B8B;
+}

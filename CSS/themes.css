@@ -1,0 +1,297 @@
+.basic, .themes_basic:hover {
+    background: #171717;
+    color: #ffffff;
+    text-shadow: initial;
+}
+.basic a {
+    color: #ffffff;
+    text-shadow: initial;
+}
+.basic a:hover {
+}
+.basic ::selection {
+    background: #314F78;
+}
+.basic .blink {
+    background: #8B8B8B;
+}
+.basic #system {
+    background: #171717;
+    border: 2px solid #ffffff;
+}
+
+.grass, .themes_grass:hover {
+    background: #13773D;
+    color: #FFB03B;
+    text-shadow: initial;
+}
+.grass a {
+    color: #FFB03B;
+    text-shadow: initial;
+}
+.grass a:hover {
+}
+.grass ::selection {
+    background: #B64926;
+}
+.grass .blink {
+    background: #8E2800;
+}
+.grass #system {
+    background: #13773D;
+    border: 2px solid #FFB03B;
+}
+
+.homebrew, .themes_homebrew:hover {
+    background: #000000;
+    color: #3FFE15;
+    text-shadow: initial;
+}
+.homebrew a {
+    color: #3FFE15;
+    text-shadow: initial;
+}
+.homebrew a:hover {
+}
+.homebrew ::selection {
+    background: #081E9A;
+}
+.homebrew .blink {
+    background: #38FE27;
+}
+.homebrew #system {
+    background: #000000;
+    border: 2px solid #3FFE15;
+}
+
+.system-failure, .themes_system-failure:hover {
+    background: #000000;
+    color: #ffffff;
+    text-shadow: 0px 0px 5px #3FFE15, 0px 0px 5px #3FFE15, 0px 0px 5px #3FFE15;
+}
+.system-failure a {
+    color: #ffffff;
+    text-shadow: 0px 0px 5px #3FFE15, 0px 0px 5px #3FFE15, 0px 0px 5px #3FFE15;
+}
+.system-failure a:hover {
+}
+.system-failure ::selection {
+    background: #009d34;
+}
+.system-failure .blink {
+    background: #ffffff;
+    box-shadow: 0px 0px 5px #3FFE15, 0px 0px 5px #3FFE15, 0px 0px 5px #3FFE15, inset 0px 0px 5px #3FFE15, inset 0px 0px 5px #3FFE15, inset 0px 0px 5px #3FFE15;
+}
+.system-failure #system {
+    background: #000000;
+    color: #ffffff;
+    border: 2px solid #ffffff;
+    box-shadow: 0px 0px 5px #3FFE15, 0px 0px 5px #3FFE15, 0px 0px 5px #3FFE15, inset 0px 0px 5px #3FFE15, inset 0px 0px 5px #3FFE15, inset 0px 0px 5px #3FFE15;
+    text-shadow: 0px 0px 5px #3FFE15, 0px 0px 5px #3FFE15, 0px 0px 5px #3FFE15;
+}
+
+.shadow, .themes_shadow:hover {
+    background: #ffffff;
+    color: #ffffff;
+    text-shadow: 0px 0px 5px #000000, 0px 0px 5px #000000;
+}
+.shadow a {
+    color: #ffffff;
+    text-shadow: 0px 0px 5px #000000, 0px 0px 5px #000000;
+}
+.shadow a:hover {
+}
+.shadow ::selection {
+    background: #009d34;
+}
+.shadow .blink {
+    background: #ffffff;
+    box-shadow: 0px 0px 5px #000000, 0px 0px 5px #000000, inset 0px 0px 5px #000000, inset 0px 0px 5px #000000;
+}
+.shadow #system {
+    background: #ffffff;
+    color: #ffffff;
+    border: 2px solid #ffffff;
+    box-shadow: 0px 0px 5px #000000, 0px 0px 5px #000000, inset 0px 0px 5px #000000, inset 0px 0px 5px #000000;
+    text-shadow: 0px 0px 5px #000000, 0px 0px 5px #000000;
+}
+
+.metal, .themes_metal:hover {
+    background: #808080;
+    color: #404040;
+    text-shadow: 0px 2px 1px #cccccc, 2px 0px 1px #cccccc;
+}
+.metal a {
+    color: #404040;
+    text-shadow: 0px 2px 1px #cccccc, 2px 0px 1px #cccccc;
+}
+.metal a:hover {
+}
+.metal ::selection {
+    background: #808080;
+}
+.metal .blink {
+    background: #808080;
+    box-shadow: 0px 0px 5px #404040, 0px 0px 5px #404040, inset 0px 0px 5px #404040, inset 0px 0px 5px #404040;
+}
+.metal #system {
+    background: #808080;
+    color: #000000;
+    border: 2px solid #808080;
+    box-shadow: 0px 0px 5px #404040, 0px 0px 5px #404040, inset 0px 0px 5px #000000, inset 0px 0px 5px #000000;
+    text-shadow: 0px 0px 5px #000000, 0px 0px 5px #000000;
+}
+
+.man-page, .themes_man-page:hover {
+    background: #FEF49C;
+    color: #000000;
+    text-shadow: initial;
+}
+.man-page a {
+    color: #000000;
+    text-shadow: initial;
+}
+.man-page a:hover {
+}
+.man-page ::selection {
+    background: #BFB875;
+}
+.man-page .blink {
+    background: #8B8B8B;
+}
+.man-page #system {
+    background: #FEF49C;
+    border: 2px solid #000000;
+}
+
+.novel, .themes_novel:hover {
+    background: #DFDBC3;
+    color: #7F2A19;
+    text-shadow: initial;
+}
+.novel a {
+    color: #7F2A19;
+    text-shadow: initial;
+}
+.novel a:hover {
+}
+.novel ::selection {
+    background: #747350;
+}
+.novel .blink {
+    background: #3A2322;
+}
+.novel #system {
+    background: #DFDBC3;
+    border: 2px solid #7F2A19;
+}
+
+.ocean, .themes_ocean:hover {
+    background: #224FBC;
+    color: #FFFFFF;
+    text-shadow: initial;
+}
+.ocean a {
+    color: #FFFFFF;
+    text-shadow: initial;
+}
+.ocean a:hover {
+}
+.ocean ::selection {
+    background: #216DFF;
+}
+.ocean .blink {
+    background: #8B8B8B;
+}
+.ocean #system {
+    background: #224FBC;
+    border: 2px solid #ffffff;
+}
+
+.pro, .themes_pro:hover {
+    background: #000000;
+    color: #ffffff;
+    text-shadow: initial;
+}
+.pro a {
+    color: #ffffff;
+    text-shadow: initial;
+}
+.pro a:hover {
+}
+.pro ::selection {
+    background: #808080;
+}
+.pro .blink {
+    background: #ffffff;
+}
+.pro #system {
+    background: #000000;
+    border: 2px solid #ffffff;
+}
+
+.red-sands, .themes_red-sands:hover {
+    background: #7A251E;
+    color: #DFBD22;
+    text-shadow: initial;
+}
+.red-sands a {
+    color: #DFBD22;
+    text-shadow: initial;
+}
+.red-sands a:hover {
+}
+.red-sands ::selection {
+    background: #3D1916;
+}
+.red-sands .blink {
+    background: #FFFFFF;
+}
+.red-sands #system {
+    background: #7A251E;
+    border: 2px solid #DFBD22;
+}
+
+.silver-aerogel, .themes_silver-aerogel:hover {
+    background: #929292;
+    color: #000000;
+    text-shadow: initial;
+}
+.silver-aerogel a {
+    color: #000000;
+    text-shadow: initial;
+}
+.silver-aerogel a:hover {
+}
+.silver-aerogel ::selection {
+    background: #65668A;
+}
+.silver-aerogel .blink {
+    background: #D9D9D9;
+}
+.silver-aerogel #system {
+    background: #929292;
+    border: 2px solid #000000;
+}
+
+.solid-colors, .themes_solid-colors:hover {
+    background: #ffffff;
+    color: #000000;
+    text-shadow: initial;
+}
+.solid-colors a {
+    color: ;
+    text-shadow: initial;
+}
+.solid-colors a:hover {
+}
+.solid-colors ::selection {
+    background: #808080;
+}
+.solid-colors .blink {
+    background: #000000;
+}
+.solid-colors #system {
+    background: #ffffff;
+    border: 2px solid #000000;
+}
