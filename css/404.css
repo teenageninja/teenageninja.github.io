@@ -13,7 +13,7 @@ body {
     z-index: 1;
 }
 #cursor, #login-block{
-    position: absolute;
+    position: fixed;
     margin: 0;
     padding-left: 4px;
     padding-right: 4px;
