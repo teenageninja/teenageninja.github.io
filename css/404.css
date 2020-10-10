@@ -28,9 +28,6 @@ body {
 #cursor {
     z-index: 4;
 }
-#cursor span {
-    
-}
 #login-block {
     z-index: 3;
 }
