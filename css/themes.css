@@ -1,0 +1,294 @@
+.basic, .basic .themes, .themes_basic:hover {
+    background: #171717;
+    color: #ffffff;
+    text-shadow: initial;
+}
+.basic .themes div::first-letter, .themes_basic::first-letter, .basic .themes_basic:hover::first-letter, .grass .themes_basic:hover::first-letter, .homebrew .themes_basic:hover::first-letter, .man-page .themes_basic:hover::first-letter, .novel .themes_basic:hover::first-letter, .ocean .themes_basic:hover::first-letter, .pro .themes_basic:hover::first-letter, .red-sands .themes_basic:hover::first-letter, .silver-aerogel .themes_basic:hover::first-letter, .solid-colors .themes_basic:hover::first-letter {
+    background: #ffffff;
+    color: #171717;
+    text-shadow: initial;
+}
+.basic a {
+    color: #ffffff;
+    text-shadow: initial;
+}
+.basic a:hover {
+}
+.basic ::selection {
+    background: #314F78;
+}
+.basic .blink {
+    background: #8B8B8B;
+}
+.basic #system {
+    background: #171717;
+    border: 2px solid #ffffff;
+}
+
+.grass, .grass .themes, .themes_grass:hover {
+    background: #13773D;
+    color: #FFB03B;
+    text-shadow: initial;
+}
+.grass .themes div::first-letter, .themes_grass::first-letter, .basic .themes_grass:hover::first-letter, .grass .themes_grass:hover::first-letter, .homebrew .themes_grass:hover::first-letter, .man-page .themes_grass:hover::first-letter, .novel .themes_grass:hover::first-letter, .ocean .themes_grass:hover::first-letter, .pro .themes_grass:hover::first-letter, .red-sands .themes_grass:hover::first-letter, .silver-aerogel .themes_grass:hover::first-letter, .solid-colors .themes_grass:hover::first-letter {
+    background: #FFB03B;
+    color: #13773D;
+    text-shadow: initial;
+}
+.grass a {
+    color: #FFB03B;
+    text-shadow: initial;
+}
+.grass a:hover {
+}
+.grass ::selection {
+    background: #B64926;
+}
+.grass .blink {
+    background: #8E2800;
+}
+.grass #system {
+    background: #13773D;
+    border: 2px solid #FFB03B;
+}
+
+.homebrew, .homebrew .themes, .themes_homebrew:hover {
+    background: #000000;
+    color: #3FFE15;
+    text-shadow: initial;
+}
+.homebrew .themes div::first-letter, .themes_homebrew::first-letter, .basic .themes_homebrew:hover::first-letter, .grass .themes_homebrew:hover::first-letter, .homebrew .themes_homebrew:hover::first-letter, .man-page .themes_homebrew:hover::first-letter, .novel .themes_homebrew:hover::first-letter, .ocean .themes_homebrew:hover::first-letter, .pro .themes_homebrew:hover::first-letter, .red-sands .themes_homebrew:hover::first-letter, .silver-aerogel .themes_homebrew:hover::first-letter, .solid-colors .themes_homebrew:hover::first-letter {
+    background: #3FFE15;
+    color: #000000;
+    text-shadow: initial;
+}
+.homebrew a {
+    color: #3FFE15;
+    text-shadow: initial;
+}
+.homebrew a:hover {
+}
+.homebrew ::selection {
+    background: #081E9A;
+}
+.homebrew .blink {
+    background: #38FE27;
+}
+.homebrew #system {
+    background: #000000;
+    border: 2px solid #3FFE15;
+}
+
+.man-page, .man-page .themes, .themes_man-page:hover {
+    background: #FEF49C;
+    color: #000000;
+    text-shadow: initial;
+}
+.man-page .themes div::first-letter, .themes_man-page::first-letter, .basic .themes_man-page:hover::first-letter, .grass .themes_man-page:hover::first-letter, .homebrew .themes_man-page:hover::first-letter, .man-page .themes_man-page:hover::first-letter, .novel .themes_man-page:hover::first-letter, .ocean .themes_man-page:hover::first-letter, .pro .themes_man-page:hover::first-letter, .red-sands .themes_man-page:hover::first-letter, .silver-aerogel .themes_man-page:hover::first-letter, .solid-colors .themes_man-page:hover::first-letter {
+    background: #000000;
+    color: #FEF49C;
+    text-shadow: initial;
+}
+.man-page a {
+    color: #000000;
+    text-shadow: initial;
+}
+.man-page a:hover {
+}
+.man-page ::selection {
+    background: #BFB875;
+}
+.man-page .blink {
+    background: #8B8B8B;
+}
+.man-page #system {
+    background: #FEF49C;
+    border: 2px solid #000000;
+}
+
+.novel, .novel .themes, .themes_novel:hover {
+    background: #DFDBC3;
+    color: #7F2A19;
+    text-shadow: initial;
+}
+.novel .themes div::first-letter, .themes_novel::first-letter, .basic .themes_novel:hover::first-letter, .grass .themes_novel:hover::first-letter, .homebrew .themes_novel:hover::first-letter, .man-page .themes_novel:hover::first-letter, .novel .themes_novel:hover::first-letter, .ocean .themes_novel:hover::first-letter, .pro .themes_novel:hover::first-letter, .red-sands .themes_novel:hover::first-letter, .silver-aerogel .themes_novel:hover::first-letter, .solid-colors .themes_novel:hover::first-letter {
+    background: #7F2A19;
+    color: #DFDBC3;
+    text-shadow: initial;
+}
+.novel a {
+    color: #7F2A19;
+    text-shadow: initial;
+}
+.novel a:hover {
+}
+.novel ::selection {
+    background: #747350;
+}
+.novel .blink {
+    background: #3A2322;
+}
+.novel #system {
+    background: #DFDBC3;
+    border: 2px solid #7F2A19;
+}
+
+.ocean, .ocean .themes, .themes_ocean:hover {
+    background: #224FBC;
+    color: #FFFFFF;
+    text-shadow: initial;
+}
+.ocean .themes div::first-letter, .themes_ocean::first-letter, .basic .themes_ocean:hover::first-letter, .grass .themes_ocean:hover::first-letter, .homebrew .themes_ocean:hover::first-letter, .man-page .themes_ocean:hover::first-letter, .novel .themes_ocean:hover::first-letter, .ocean .themes_ocean:hover::first-letter, .pro .themes_ocean:hover::first-letter, .red-sands .themes_ocean:hover::first-letter, .silver-aerogel .themes_ocean:hover::first-letter, .solid-colors .themes_ocean:hover::first-letter {
+    background: #FFFFFF;
+    color: #224FBC;
+    text-shadow: initial;
+}
+.ocean a {
+    color: #FFFFFF;
+    text-shadow: initial;
+}
+.ocean a:hover {
+}
+.ocean ::selection {
+    background: #216DFF;
+}
+.ocean .blink {
+    background: #8B8B8B;
+}
+.ocean #system {
+    background: #224FBC;
+    border: 2px solid #ffffff;
+}
+
+.pro, .pro .themes, .themes_pro:hover {
+    background: #000000;
+    color: #ffffff;
+    text-shadow: initial;
+}
+.pro .themes div::first-letter, .themes_pro::first-letter, .basic .themes_pro:hover::first-letter, .grass .themes_pro:hover::first-letter, .homebrew .themes_pro:hover::first-letter, .man-page .themes_pro:hover::first-letter, .novel .themes_pro:hover::first-letter, .ocean .themes_pro:hover::first-letter, .pro .themes_pro:hover::first-letter, .red-sands .themes_pro:hover::first-letter, .silver-aerogel .themes_pro:hover::first-letter, .solid-colors .themes_pro:hover::first-letter {
+    background: #FFFFFF;
+    color: #000000;
+    text-shadow: initial;
+}
+.pro a {
+    color: #ffffff;
+    text-shadow: initial;
+}
+.pro a:hover {
+}
+.pro ::selection {
+    background: #808080;
+}
+.pro .blink {
+    background: #ffffff;
+}
+.pro #system {
+    background: #000000;
+    border: 2px solid #ffffff;
+}
+
+.red-sands, .red-sands .themes, .themes_red-sands:hover {
+    background: #7A251E;
+    color: #DFBD22;
+    text-shadow: initial;
+}
+.red-sands .themes div::first-letter, .themes_red-sands::first-letter, .basic .themes_red-sands:hover::first-letter, .grass .themes_red-sands:hover::first-letter, .homebrew .themes_red-sands:hover::first-letter, .man-page .themes_red-sands:hover::first-letter, .novel .themes_red-sands:hover::first-letter, .ocean .themes_red-sands:hover::first-letter, .pro .themes_red-sands:hover::first-letter, .red-sands .themes_red-sands:hover::first-letter, .silver-aerogel .themes_red-sands:hover::first-letter, .solid-colors .themes_red-sands:hover::first-letter {
+    background: #DFBD22;
+    color: #7A251E;
+    text-shadow: initial;
+}
+.red-sands a {
+    color: #DFBD22;
+    text-shadow: initial;
+}
+.red-sands a:hover {
+}
+.red-sands ::selection {
+    background: #3D1916;
+}
+.red-sands .blink {
+    background: #FFFFFF;
+}
+.red-sands #system {
+    background: #7A251E;
+    border: 2px solid #DFBD22;
+}
+
+.silver-aerogel, .silver-aerogel .themes, .themes_silver-aerogel:hover {
+    background: #929292;
+    color: #000000;
+    text-shadow: initial;
+}
+.silver-aerogel .themes div::first-letter, .themes_silver-aerogel::first-letter, .basic .themes_silver-aerogel:hover::first-letter, .grass .themes_silver-aerogel:hover::first-letter, .homebrew .themes_silver-aerogel:hover::first-letter, .man-page .themes_silver-aerogel:hover::first-letter, .novel .themes_silver-aerogel:hover::first-letter, .ocean .themes_silver-aerogel:hover::first-letter, .pro .themes_silver-aerogel:hover::first-letter, .red-sands .themes_silver-aerogel:hover::first-letter, .silver-aerogel .themes_silver-aerogel:hover::first-letter, .solid-colors .themes_silver-aerogel:hover::first-letter {
+    background: #000000;
+    color: #929292;
+    text-shadow: initial;
+}
+.silver-aerogel a {
+    color: #000000;
+    text-shadow: initial;
+}
+.silver-aerogel a:hover {
+}
+.silver-aerogel ::selection {
+    background: #65668A;
+}
+.silver-aerogel .blink {
+    background: #D9D9D9;
+}
+.silver-aerogel #system {
+    background: #929292;
+    border: 2px solid #000000;
+}
+
+.solid-colors, .solid-colors .themes, .themes_solid-colors:hover {
+    background: #ffffff;
+    color: #000000;
+    text-shadow: initial;
+}
+.solid-colors .themes div::first-letter, .themes_solid-colors::first-letter, .basic .themes_solid-colors:hover::first-letter, .grass .themes_solid-colors:hover::first-letter, .homebrew .themes_solid-colors:hover::first-letter, .man-page .themes_solid-colors:hover::first-letter, .novel .themes_solid-colors:hover::first-letter, .ocean .themes_solid-colors:hover::first-letter, .pro .themes_solid-colors:hover::first-letter, .red-sands .themes_solid-colors:hover::first-letter, .silver-aerogel .themes_solid-colors:hover::first-letter, .solid-colors .themes_solid-colors:hover::first-letter {
+    background: #000000;
+    color: #ffffff;
+    text-shadow: initial;
+}
+.solid-colors a {
+    color: #000000;
+    text-shadow: initial;
+}
+.solid-colors a:hover {
+}
+.solid-colors ::selection {
+    background: #808080;
+}
+.solid-colors .blink {
+    background: #000000;
+}
+.solid-colors #system {
+    background: #ffffff;
+    border: 2px solid #000000;
+}
+
+.system-failure, .system-failure .themes, .themes_system-failure:hover {
+    background: #000000;
+    color: #ffffff;
+    text-shadow: 0px 0px 5px #3FFE15, 0px 0px 5px #3FFE15, 0px 0px 5px #3FFE15;
+}
+.system-failure a {
+    color: #ffffff;
+    text-shadow: 0px 0px 5px #3FFE15, 0px 0px 5px #3FFE15, 0px 0px 5px #3FFE15;
+}
+.system-failure a:hover {}
+.system-failure ::selection {
+    background: #009d34;
+}
+.system-failure .blink {
+    background: #ffffff;
+    box-shadow: 0px 0px 5px #3FFE15, 0px 0px 5px #3FFE15, 0px 0px 5px #3FFE15, inset 0px 0px 5px #3FFE15, inset 0px 0px 5px #3FFE15, inset 0px 0px 5px #3FFE15;
+}
+.system-failure #system {
+    background: #000000;
+    color: #ffffff;
+    border: 2px solid #ffffff;
+    box-shadow: 0px 0px 5px #3FFE15, 0px 0px 5px #3FFE15, 0px 0px 5px #3FFE15, inset 0px 0px 5px #3FFE15, inset 0px 0px 5px #3FFE15, inset 0px 0px 5px #3FFE15;
+    text-shadow: 0px 0px 5px #3FFE15, 0px 0px 5px #3FFE15, 0px 0px 5px #3FFE15;
+}

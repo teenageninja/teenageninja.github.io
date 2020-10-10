@@ -1,0 +1,60 @@
+body {
+    min-height: 100%;
+    min-width: 100%;
+}
+#wrapper {
+    padding: 0;
+    width: auto;
+    height: auto;
+    display: none;
+    background: inherit;
+    z-index: 1;
+}
+#cursor, #login-block{
+    position: absolute;
+    margin-top: 0;
+    margin-left: 0;
+    padding-left: 4px;
+    padding-right: 4px;
+    width: calc(100% - 8px);
+    height: 100%;
+    background: inherit;
+}
+#cursor {
+    z-index: 4;
+}
+#login-block {
+    z-index: 3;
+}
+#system {   
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    letter-spacing: 1ch;
+    padding-left: 2ch;
+    margin: 0;
+    width: 19ch;
+    display: none;
+    z-index: 2;
+}
+#not-found {
+    display: none;
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 2ch;
+    letter-spacing: 1ch;
+    position: fixed;
+    overflow: hidden;
+    justify-content: space-around;
+}
+#not-found div {
+    width: 19ch;
+    height: min-content;
+    margin: auto;
+    padding: none;
+}
