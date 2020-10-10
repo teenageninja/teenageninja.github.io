@@ -1,6 +1,7 @@
 body {
     min-height: 100%;
     min-width: 100%;
+    overflow: hidden;
 }
 #wrapper {
     padding: 0;
