@@ -1,8 +1,10 @@
-* {
+html, * {
     margin: 0;
     padding: 0;
     font-family: "Roboto Mono", "IBM Plex Mono", monospace;
     font-size: 18px;
     word-break: break-word;
     -webkit-text-size-adjust: none;
+    -moz-text-size-adjust: none;
+    -ms-text-size-adjust: none;
 }
