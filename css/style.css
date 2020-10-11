@@ -11,7 +11,7 @@ body {
     display: flex;
 }
 .whois .whois__key {
-    min-width: 11ch;
+    min-width: 13ch;
     margin-right: 1ch;
 }
 .whois .whois__value {
